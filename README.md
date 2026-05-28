@@ -154,7 +154,8 @@ The simulation is carried out using ModelSim 2020.1.
 
 Waveforms will display the selected input line being passed to the output according to the select signals.
 
-<img width="1891" height="973" alt="Screenshot 2025-09-17 222834" src="https://github.com/user-attachments/assets/54dcf57a-a3af-4210-a73d-f9a32f5da258" />
+<img width="1622" height="862" alt="image" src="https://github.com/user-attachments/assets/2ed4ad00-de71-451f-827b-57a3be9aa6d6" />
+
 
 
 ---
